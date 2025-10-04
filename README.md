@@ -2,6 +2,12 @@
 # Taxi-Organization-Analysis
 This report provides a comprehensive analysis of the taxi service operations, highlighting trends in passenger behaviour, fare distribution, weather impact, trip purpose, location dynamics, and payment preferences. Based on these findings, strategic recommendations are provided to optimize revenue, enhance customer satisfaction, and improve operational efficiency.
 
+## Skills Utilized:
+- Data collection
+- Data preparation
+- Data Analysis with Microsoft Excel
+- Data visualization and reporting
+
 ## 1. Payment & Fare Trends
 Total Fare Amount: $16,474.71
 Total Revenue (including tips & additional charges): $19,734.48
